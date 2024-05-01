@@ -1,0 +1,19 @@
+Welcome to mental health chatbot, hope you have a great treatment!
+
+Please type your question here! Type 'S' or 'Stop' to end the conversation! 
+I feel lonely since I am in a foreign country alone.
+
+This is Chatbot's answer: Here are some suggestions to combat loneliness while being in a foreign country alone:
+
+1. Connect with locals: Try to learn the local language or hire a language tutor to help you communicate with the locals. Attend cultural events, festivals, and meetups to meet new people. Volunteer: Volunteering is a great way to meet new people and give back to the community.
+Do you have further question? 
+Where can I learn local language?
+This is Chatbot's answer: Here are some suggestions to learn a local language while being in a foreign country:
+
+1. Language exchange programs: Look for language exchange programs in your area, where you can practice speaking with a native speaker in exchange for teaching them your language. Language schools: Enroll in a language school to learn the local language. This will provide you with structured lessons and opportunities to practice speaking with other students.
+Do you have further question? 
+Stop
+Goodbye, hope you enjoy the conversation!
+The prescription is: 
+Based on the chat history between the patient and the chatbot, here are some suggestions to combat loneliness while being in a foreign country alone. Try to learn the local language or hire a language tutor to help you communicate with the locals. Attend cultural events, festivals, and meetups to meet new people.
+

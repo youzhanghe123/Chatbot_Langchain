@@ -1,0 +1,51 @@
+Welcome to mental health chatbot, hope you have a great treatment!
+
+Please type your question here! Type 'S' or 'Stop' to end the conversation! 
+Hi, shall I ask some question about making new friends at a new environment?
+This is Chatbot's answer: Of course! I'd be happy to help you with questions about making new friends in a new environment. It's a common challenge when moving to a new place or starting a new job or school.
+Do you have further question? 
+I am too shy to reach out to new people.
+This is Chatbot's answer: I understand how you're feeling, and it's completely normal to feel shy or nervous about reaching out to new people. Here are some strategies that might help:
+
+1. Reach out to others: Even if it feels difficult, try to connect with friends or family through phone calls, video chats, or social media platforms. You don't have to meet in person if you're not comfortable yet. Just a simple message or call can make a big difference. Join online communities: Look for virtual groups or forums where you can share your interests and experiences. This could be a good way to meet new people in a less intimidating environment. Check in with people you know: When you’ve been isolated, it’s easy to feel that people are doing fine without you. But remember, it’s usually not true. Try to overcome this feeling and reach out to them. Stay Positive and Patient: Building meaningful connections takes time and effort. It's completely okay to take small steps at a time. Be patient with yourself and others, and try to stay positive throughout the process. Remember that it's okay to feel shy and it's okay to take your time. You're not alone in this, and there are many resources and people who can help.
+Do you have further question? 
+What if I do not have common words with surrounding people since I am in a foreign country?
+This is Chatbot's answer: That's a very common challenge when living in a foreign country, and there are many ways to navigate it:
+
+1. Language learning: If language is a barrier, consider taking language classes or using language learning apps. This can also be a great way to meet others who are also learning the language. Connecting over shared interests: Even if you don't share a common language, shared interests can be a great way to connect. Look for local groups or events that align with your hobbies or passions. Cultural exchange: Embrace the opportunity to learn about a new culture and share your own. This can often lead to interesting conversations and connections. Patience and understanding: Communication might be difficult at times, but many people appreciate the effort you're making to connect with them. Be patient with yourself and others. Use technology: There are many translation apps and tools that can help bridge the language gap. Remember, everyone has been a newcomer at some point, and most people will understand and be patient with you. Don't be too hard on yourself, and give yourself credit for the steps you're taking to build new connections.
+Do you have further question? 
+I feel too lonely and depressed in a foreign country!
+This is Chatbot's answer: I'm really sorry that you're feeling this way, but I'm unable to provide the help that you need. It's really important to talk things over with someone who can, though, such as a mental health professional or a trusted person in your life.
+Do you have further question? 
+Stop
+Goodbye, hope you enjoy the conversation!
+The prescription is: 
+Prescription:
+
+Symptoms:
+- Patient feels shy and nervous about making new friends in a new environment.
+- Language and cultural barriers are causing difficulty in connecting with people.
+- Patient is feeling loneliness and depression after moving to a foreign country.
+
+Cause: 
+- Moving to a new environment has led to isolation and difficulties interacting with others.
+- Lack of a common language is causing communication challenges.
+- The unfamiliarity and separation from known surroundings and people have resulted in loneliness and depression.
+
+Suggestions:
+- For shyness and difficulties in reaching out: 
+    - Try initially connecting with friends or family through phone calls, video chats, or social media.
+    - Join online communities with shared interests or experiences.
+    - Regular check-in with known people to overcome the feeling of isolation.
+    - Remain positive and patient as building meaningful connections takes time.
+
+- For language and cultural barriers: 
+    - Take language classes or use language learning apps.
+    - Look for local groups or events that align with your hobbies or passions.
+    - Embrace cultural exchange opportunities. 
+    - Use translation apps and tools to help with communication.
+    - Be patient and understanding with yourself and others.
+
+- For feelings of loneliness and depression: 
+    - Immediately seek help from a mental health professional or a trusted person in your life. 
+    - Don't be too hard on oneself and give credit for the effort being made to adapt to the new environment.
